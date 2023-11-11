@@ -1,4 +1,4 @@
-core dum file https://drive.google.com/file/d/1EGt-Yvs4OjWlPekJtHkehEZqTEDHYBOt/view?usp=sharing
+core dump file https://drive.google.com/file/d/1EGt-Yvs4OjWlPekJtHkehEZqTEDHYBOt/view?usp=sharing
 
 video https://drive.google.com/file/d/1lVCCkEAw2CCE7asEFn6UqiVgANH3MUpG/view?usp=sharing
 
