@@ -1,5 +1,6 @@
 core dum file https://drive.google.com/file/d/1EGt-Yvs4OjWlPekJtHkehEZqTEDHYBOt/view?usp=sharing
 
+video https://drive.google.com/file/d/1lVCCkEAw2CCE7asEFn6UqiVgANH3MUpG/view?usp=sharing
 
 ===== CRASH =====
 si_signo=Segmentation fault(11), si_code=1, si_addr=0x4d5003d0131
