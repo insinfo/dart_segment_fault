@@ -1,3 +1,5 @@
+core dum file https://drive.google.com/file/d/1EGt-Yvs4OjWlPekJtHkehEZqTEDHYBOt/view?usp=sharing
+
 
 ===== CRASH =====
 si_signo=Segmentation fault(11), si_code=1, si_addr=0x4d5003d0131
@@ -45,4 +47,3 @@ isolate_instructions=558f06e79680, vm_instructions=558f06e79680
 Aborted (core dumped)
 
 
-https://drive.google.com/file/d/1EGt-Yvs4OjWlPekJtHkehEZqTEDHYBOt/view?usp=sharing
