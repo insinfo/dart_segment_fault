@@ -43,8 +43,8 @@ dependencies:
       #url: https://github.com/insinfo/eloquent_dart.git     
   eloquent: ^2.1.2
 
-  new_sali_core:
-    path: ../new_sali/core
+  #new_sali_core:
+    #path: ../new_sali/core
   # para monitoramento com o prometheus e grafana
   prometheus_client: any  
   # shelf é usado no backend publico
